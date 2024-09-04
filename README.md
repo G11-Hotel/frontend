@@ -1,5 +1,5 @@
 <h1>BellHotel</h1>
-Questa repository contiene il codice per il **frontend** del progetto.
+Questa repository contiene il codice per il frontend del progetto.
 </br></br>
 <h1>Come avviare il progetto</h1>
 </br></br>
