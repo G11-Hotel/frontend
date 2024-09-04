@@ -3,7 +3,8 @@ Questa repository contiene il codice per il frontend del progetto.
 </br>
 <h1>Come avviare il progetto</h1>
 </br>
-Il frontend è live all' URL: //inserire URL. E' possibile testare le funzioni del sito che utilizzano le API
+Il frontend è live all' URL: https://bellhotel-frontend.netlify.app
+. E' possibile testare le funzioni del sito che utilizzano le API
 sviluppate nel backend.
 </br>
 Se il sito dovesse essere offline:
