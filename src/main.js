@@ -5,7 +5,7 @@ import "./assets/main.css"
 
 const app = createApp(App)
 
-app.provide('HOST', 'https://bellhotelproject-production.up.railway.app')
+app.provide('HOST', 'https://backend-production-d77f.up.railway.app')
 
 app.use(router)
 
