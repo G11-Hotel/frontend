@@ -16,5 +16,5 @@ Se il sito dovesse essere offline:
 
 Se il backend dovesse essere offline :
 1) Recarsi nella repository del backend del progetto e seguire i passi per eseguirlo in locale
-2) Sostituuire ```http:localhost:8080``` al nome dell'host nel file ```./main.ts```
+2) Sostituire ```http:localhost:8080``` al nome dell'host nel file ```./main.ts```
 3) Eseguire ```npm run dev```
